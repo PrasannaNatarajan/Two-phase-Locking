@@ -5,10 +5,6 @@
 This is an implementation of two phase locking algorithm to solve the concurrency issues in the dinning philosophers problem in C.
 pthreads are used to simulate the philosophers. Semaphors are used to lock the chopsticks and avoid concurrency issues. 
 
-# Description
-
-
-
 Dead lock prevention algorithm (pseudo code):
 
 	acquire mutex lock
