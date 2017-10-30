@@ -29,6 +29,6 @@ Second parameter is the type of print  - default = 1
 
 # Contributors
 
-Atish Majumdar,
+[https://github.com/atish-maj]Atish_Majumdar,
 <a href = "https://github.com/Prasannacool">Prasanna Natarajan</a>,
 <a href = "https://github.com/vedantcj/">Vedant Chakravarthy</a>.
